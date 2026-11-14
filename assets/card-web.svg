@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="150" viewBox="0 0 300 150" role="img" aria-label="Web / Apps: Interfaces that ship" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <defs></defs>
+  <rect x="0.5" y="0.5" width="299" height="149" rx="4" fill="#12151c"/>
+  <rect x="0.5" y="0.5" width="299" height="149" rx="4" fill="none" stroke="rgba(255,255,255,0.08)"/>
+  <rect x="24.5" y="24.5" width="29" height="19" rx="2" fill="rgba(230,57,70,0.15)" stroke="rgba(230,57,70,0.35)"/>
+  <text x="39" y="38" font-size="11" font-weight="600" fill="#ff4d5a" text-anchor="middle">02</text>
+  <text x="64" y="38" font-size="11" font-weight="600" letter-spacing="1.6" fill="#e05656">WEB / APPS</text>
+  <text x="24" y="76" font-size="18" font-weight="600" fill="#f8fafc">Interfaces that ship</text>
+  <text x="24" y="104" font-size="12.5" fill="#94a3b8">React and TypeScript front ends,</text><text x="24" y="122" font-size="12.5" fill="#94a3b8">built to be used, not just shown.</text>
+</svg>

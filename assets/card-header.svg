@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="190" viewBox="0 0 840 190" role="img" aria-label="Pichler, Software Developer. Open to internships and collaboration." font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <defs><radialGradient id="g" cx="1" cy="0" r="0.75"><stop offset="0" stop-color="#e63946" stop-opacity="0.15"/><stop offset="1" stop-color="#e63946" stop-opacity="0"/></radialGradient></defs>
+  <rect x="0.5" y="0.5" width="839" height="189" rx="4" fill="#12151c"/>
+  <rect x="0.5" y="0.5" width="839" height="189" rx="4" fill="url(#g)"/>
+  <rect x="0.5" y="0.5" width="839" height="189" rx="4" fill="none" stroke="rgba(255,255,255,0.08)"/>
+  <text x="32" y="44" font-size="11" font-weight="600" letter-spacing="1.8" fill="#e05656">SOFTWARE DEVELOPER</text>
+  <text x="32" y="92" font-size="40" font-weight="700" letter-spacing="-0.8" fill="#f8fafc">Pichler</text>
+  <text x="32" y="118" font-size="15" fill="#94a3b8">IoT  ·  Backend  ·  Application Development</text>
+  <rect x="32.5" y="136.5" width="292" height="27" rx="2" fill="rgba(230,57,70,0.15)" stroke="rgba(230,57,70,0.35)"/>
+  <circle cx="46" cy="150" r="4" fill="#e63946"/>
+  <text x="58" y="154.5" font-size="13" font-weight="500" fill="#f8fafc">Open to internships and collaboration</text>
+</svg>

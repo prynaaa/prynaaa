@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="140" viewBox="0 0 840 140" role="img" aria-label="About: software developer based in Austria" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <defs></defs>
+  <rect x="0.5" y="0.5" width="839" height="139" rx="4" fill="#12151c"/>
+  <rect x="0.5" y="0.5" width="839" height="139" rx="4" fill="none" stroke="rgba(255,255,255,0.08)"/>
+  <text x="32" y="44" font-size="11" font-weight="600" letter-spacing="1.8" fill="#e05656">ABOUT</text>
+  <text x="32" y="80" font-size="14.5" fill="#f8fafc">Software developer based in Austria, building projects from embedded hardware</text>
+  <text x="32" y="102" font-size="14.5" fill="#f8fafc">up to the user interface. Working mainly with Python, Java and TypeScript.</text>
+</svg>
