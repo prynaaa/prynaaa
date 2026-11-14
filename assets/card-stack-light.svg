@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="200" viewBox="0 0 840 200" role="img" aria-label="Tech stack: Python, Java, TypeScript, JavaScript, React, ESP32, Git. Also familiar with Docker." font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <defs><filter id="s" x="-5%" y="-10%" width="110%" height="130%"><feDropShadow dx="0" dy="1" stdDeviation="1" flood-color="#000" flood-opacity="0.06"/><feDropShadow dx="0" dy="2" stdDeviation="2" flood-color="#000" flood-opacity="0.04"/></filter></defs>
+  <rect x="4" y="4" width="832" height="186" rx="16" fill="#f6f8fa" filter="url(#s)"/>
+  <rect x="4.5" y="4.5" width="831" height="185" rx="15.5" fill="none" stroke="rgba(0,0,0,0.06)"/>
+  <rect x="12" y="12" width="816" height="170" rx="8" fill="#ffffff"/>
+  <rect x="28" y="28" width="94" height="20" rx="4" fill="#eaeef2"/>
+  <text x="75.0" y="42" font-size="10.5" font-weight="600" letter-spacing="0.8" fill="#656d76" text-anchor="middle">TECH STACK</text>
+  <rect x="32" y="64" width="85" height="28" rx="6" fill="#eaeef2"/>
+  <circle cx="46" cy="78" r="4" fill="#3776AB"/>
+  <text x="58" y="82.5" font-size="13" font-weight="500" fill="#1f2328">Python</text>
+  <rect x="125" y="64" width="70" height="28" rx="6" fill="#eaeef2"/>
+  <circle cx="139" cy="78" r="4" fill="#ED8B00"/>
+  <text x="151" y="82.5" font-size="13" font-weight="500" fill="#1f2328">Java</text>
+  <rect x="203" y="64" width="114" height="28" rx="6" fill="#eaeef2"/>
+  <circle cx="217" cy="78" r="4" fill="#3178C6"/>
+  <text x="229" y="82.5" font-size="13" font-weight="500" fill="#1f2328">TypeScript</text>
+  <rect x="325" y="64" width="114" height="28" rx="6" fill="#eaeef2"/>
+  <circle cx="339" cy="78" r="4" fill="#F7DF1E"/>
+  <text x="351" y="82.5" font-size="13" font-weight="500" fill="#1f2328">JavaScript</text>
+  <rect x="447" y="64" width="78" height="28" rx="6" fill="#eaeef2"/>
+  <circle cx="461" cy="78" r="4" fill="#61DAFB"/>
+  <text x="473" y="82.5" font-size="13" font-weight="500" fill="#1f2328">React</text>
+  <rect x="533" y="64" width="78" height="28" rx="6" fill="#eaeef2"/>
+  <circle cx="547" cy="78" r="4" fill="#E7352C"/>
+  <text x="559" y="82.5" font-size="13" font-weight="500" fill="#1f2328">ESP32</text>
+  <rect x="619" y="64" width="63" height="28" rx="6" fill="#eaeef2"/>
+  <circle cx="633" cy="78" r="4" fill="#F05032"/>
+  <text x="645" y="82.5" font-size="13" font-weight="500" fill="#1f2328">Git</text>
+  <text x="32" y="124" font-size="11" font-weight="600" letter-spacing="0.8" fill="#656d76">ALSO FAMILIAR WITH</text>
+  <rect x="32" y="136" width="85" height="28" rx="6" fill="#eaeef2"/>
+  <circle cx="46" cy="150" r="4" fill="#2496ED"/>
+  <text x="58" y="154.5" font-size="13" font-weight="500" fill="#1f2328">Docker</text>
+</svg>
